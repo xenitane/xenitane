@@ -10,7 +10,6 @@ Hi, I'm Tushar Jain. I like maths, and I love solving problems and using those s
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tj-dsk-tpp&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tj-dsk-tpp)](https://github.com/tj-dsk-tpp/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
