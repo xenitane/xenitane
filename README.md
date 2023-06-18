@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tushar Jain. I like maths, and I love solving problems and using those solutions to build systems that help other people.<br>I know various programming languages, which I'll mention below. I plan to learn many languages and skills through my journey.<br>I'm currently working in Java to build enterprise applications and systems.<br>I would love to collaborate to build new things, contribute, and discover new skills.<br>I have other hobbies and interests like anime/manga, music, DIY, art, photography, reading, and cycling.
+Hi, I'm Tushar Jain. I like maths, and I love solving problems and using those solutions to build systems that help other people.<br>I know various programming languages, which I'll mention below. I plan to learn many languages and skills through my journey.<br>I'm currently working in Java to build enterprise applications and systems.<br>I would love to collaborate to build new things, contribute, and discover new skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xenitane) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tushar01.tjdsk) 
