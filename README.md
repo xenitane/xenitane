@@ -1,5 +1,5 @@
 # Tushar Jain | xenitane
-![Tushar Jain](https://drive.google.com/uc?export=view&id=11hVFkzhUK8andGxjjVm_s1WS5sxom78v "image")
+>Your Friendly, Nerdy, Geeky Software Developer
 ## 💫 About Me:
 Hi, I'm Tushar Jain. I like maths, and I love solving problems and using those solutions to build systems that help other people.<br>I know various programming languages, which I'll mention below. I plan to learn many languages and skills through my journey.<br>I'm currently working in Java to build enterprise applications and systems.<br>I would love to collaborate to build new things, contribute, and discover new skills.
 
