@@ -1,7 +1,9 @@
 # Tushar Jain | xenitane
->
->Your Friendly, Nerdy, Geeky Software Developer
->
+
+> Your Friendly, Nerdy, Geeky Software Developer
+
+> Living in the terminal, zsh/tmux/nvim + tools.
+
 ## 💫 About Me
 
 Hi, I'm Tushar Jain. I like maths, and I love solving problems and using those solutions to build systems that help other people.
