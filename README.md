@@ -4,13 +4,13 @@
 
 ## 💫 About Me
 
-Hi, I'm Tushar Jain. I like maths, solving problems and build systems/solutions that help other people.
+Hi, I'm Tushar Jain. I like maths, solving problems, programming/coding and building systems/solutions for fun that sometime make someone smile.
 
-I love to collaborate to build new things, learn, contribute, and discover new skills.
+I love to collaborate to build new things, learn, contribute, and develop new skills.
 
-Enthusiast for all things hardware, low-level, mobile/embedded, web, sometimes garnished with ops DS/ML.
+Enthusiast for all things hardware, low-level, mobile/native/embedded, web, sometimes garnished with ops, DS/ML.
 
-**Living in the terminal, arch/zsh/tmux/nvim + tools. Life's too short to code in JAVA.**
+**Living in the terminal, arch/zsh/tmux/nvim + tools. Life's too short to program in `JAVA`.**
 
 ## 🌐 Socials
 
@@ -38,7 +38,7 @@ Portfilio(Coming Soon) | Personal Blog(Coming Soon) | [LinkedIn](https://linkedi
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Diagrams.net](https://img.shields.io/badge/Diegrams.net-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)![Excalidraw](https://img.shields.io/badge/excalidraw-%236965DB.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
 
-## Learning
+### Learning
 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)![Perl](https://img.shields.io/badge/Perl-%23041E42.svg?style=for-the-badge&logo=perl&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)![ANDROID](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)![Expo](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)![Arduino](https://img.shields.io/badge/arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white)![Solid](https://img.shields.io/badge/solid-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)![Zig](https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)![Ocamel](https://img.shields.io/badge/ocaml-%23EC6813.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
@@ -49,8 +49,8 @@ Portfilio(Coming Soon) | Personal Blog(Coming Soon) | [LinkedIn](https://linkedi
 
 ## 📌 Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=bf-jit&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/bf-jit)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=seam-carving&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/seam-carving)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=.dotfiles&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/.dotfiles)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=geo-vis&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/geo-vis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=bf-jit&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/bf-jit) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=seam-carving&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/seam-carving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=.dotfiles&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/.dotfiles) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenitane&repo=geo-vis&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/geo-vis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/gist/?id=8d49aa2c918bd54d65f9b0bdb16059d1&show_owner=true&theme=catppuccin_mocha)](https://github.com/xenitane/geo-vis)
 
