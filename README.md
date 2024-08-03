@@ -14,7 +14,7 @@ Enthusiast for all things hardware, low-level, mobile/native/embedded, web, some
 
 ## 🌐 Socials
 
-Portfilio(Coming Soon) | Personal Blog(Coming Soon) | [LinkedIn](https://linkedin.com/in/xenitane) | [Medium](https://medium.com/@tushar01.tjdsk) | [Email](mailto:tushar01.tjdsk@gmail.com)
+<https://xenitane.xyz> | [Blogs &amp; Articles](https://.xenitane.xyz/publication) | [LinkedIn](https://linkedin.com/in/xenitane) | [Email](mailto:tushar01.tjdsk@gmail.com)
 
 ## 💻 Technical Skills
 
