@@ -1,10 +1,13 @@
 # xenitane
 
-> Your Friendly, Nerdy, Geeky Software Developer
+> Organized clutter, Bundle of thoughts
+> Sorcerer of numbers, Wizard of code
 
 ## 💫 About Me
 
-Hi, internet stranger, xenitane here. I like maths, solving problems, programming/coding and building systems/solutions for fun that sometime make someone smile.
+Hi, internet stranger, xenitane here.
+
+I like maths, solving problems, programming/coding and building systems/solutions for fun that sometime make someone smile.
 
 I love to collaborate to build new things, learn, contribute, and develop new skills.
 
