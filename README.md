@@ -1,15 +1,15 @@
 # xenitane
 
-> Organized clutter, Bundle of thoughts
+> Organized clutter, Bundle of thoughts<br>
 > Sorcerer of numbers, Wizard of code
 
 ## 💫 About Me
 
 Hi, internet stranger, xenitane here.
 
-I like maths, solving problems, programming/coding and building systems/solutions for fun that sometime make someone smile.
+I like maths, solving problems, programming/coding to make stuff that sometime make someone smile.
 
-I love to collaborate to build new things, learn, contribute, and develop new skills.
+I love to collaborate to develop new skills and things and also contribute.
 
 Enthusiast for all things hardware, embedded, low-level, web.
 
