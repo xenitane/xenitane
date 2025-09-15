@@ -41,9 +41,4 @@ I love to collaborate to develop new skills and things and also contribute.
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)![ArchLinux](https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=ArchLinux&logoColor=white)![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)![NeoVim](https://img.shields.io/badge/neovim-%2357a143.svg?style=for-the-badge&logo=neovim&logoColor=white)![Tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
 
-## 📊 GitHub Stats
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=xenitane&theme=catppuccin_mocha&show_icons=true&hide_title=true&rank_icon=github&card_width=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenitane&theme=catppuccin_mocha&include_all_commits=false&count_private=false&layout=compact&langs_count=8&hide_title=true&card_width=600)
-
 ![rand-dev-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)
